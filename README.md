@@ -1,7 +1,7 @@
 # in-class-activities
 ## Devlogs
 ### W1
-When I move the camera out of the Cat Game Object, the camera no longers follows the cat anymore. This is because the camera is no longer connected to cat anymore so it doesn't know what to follow. So, the camera stands still.
+When I move the camera out of the Cat Game Object, the camera no longers follows the cat anymore. This is because the camera is no longer connected to cat anymore so it doesn't know what to follow. So, the camera stands still. Itch Link: https://gamerfan1225.itch.io/in-class-activity-complete
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
