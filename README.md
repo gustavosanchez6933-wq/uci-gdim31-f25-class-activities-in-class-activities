@@ -27,7 +27,7 @@ A surfboard, class is the blueprint, components is building the surfboard itself
 Baking a cake, a class is like a recipe, the components is baking cake, and the member varibles what frosting we use.
 
 Activity 3:
-1. 
+1. The reason why the ball goes super bright because the brightness code kept increasing because every bounce cause the ball to becomce increasingly bright unitl it goes super sayian after many bounces.
 
 ## Open-Source Assets
 ### W1
