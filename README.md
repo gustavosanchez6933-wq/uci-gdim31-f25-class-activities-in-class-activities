@@ -31,7 +31,7 @@ Activity 3:
 
 ### W4
 Activity Discussion: #Team 10
-1. We added RigidBodies to both the Cat and the SoccerBall while we kept the Is Trigger on, on the Goal.
+1. We added RigidBodies to both the Cat and the SoccerBall so they can have physics to both push the ball and move the ball. While we kept the Is Trigger on the Goal so it isn't physical, allowing the ball to pass through.
 
 ## Open-Source Assets
 ### W1
