@@ -29,6 +29,10 @@ Baking a cake, a class is like a recipe, the components is baking cake, and the 
 Activity 3:
 1. The reason why the ball goes super bright because the brightness code kept increasing because every bounce cause the ball to becomce increasingly bright unitl it goes super sayian after many bounces.
 
+### W4
+Activity Discussion: #Team 10
+1. We added RigidBodies to both the Cat and the SoccerBall while we kept the Is Trigger on, on the Goal.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
