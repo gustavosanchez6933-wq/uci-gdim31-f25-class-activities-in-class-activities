@@ -36,7 +36,7 @@ Activity Discussion: #Team 10
 ### W5
 1. My partner and I discussed that the member variables that this class need is a transform variable and a NavMesh agent variable.
 
-2.We've decided that this method only needs Start().
+2. We've decided that this method only needs Start().
 
 3. We think that the method should use GetComponent<NavMeshAgent> and NavMeshAgent.SetDestination().
 
