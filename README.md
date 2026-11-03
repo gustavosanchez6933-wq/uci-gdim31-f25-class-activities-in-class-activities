@@ -33,6 +33,13 @@ Activity 3:
 Activity Discussion: #Team 10
 1. We added RigidBodies to both the Cat and the SoccerBall so they can have physics to both push the ball and move the ball. While we kept the Is Trigger on the Goal so it isn't physical, allowing the ball to pass through.
 
+### W5
+1. My partner and I discussed that the member variables that this class need is a transform variable and a NavMesh agent variable.
+
+2.We've decided that this method only needs Start().
+
+3. We think that the method should use GetComponent<NavMeshAgent> and NavMeshAgent.SetDestination().
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
