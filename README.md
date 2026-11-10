@@ -41,7 +41,7 @@ Activity Discussion: #Team 10
 3. We think that the method should use GetComponent<NavMeshAgent> and NavMeshAgent.SetDestination().
 
 ### W7
-1.
+1. I was assigned to the General C# Coding category. Here's the link: https://docs.google.com/document/d/1Fn9TGFlxzcsuaW2vjqgng_0IyirIMh9iUS6c1-b-k7M/edit?usp=sharing
 
 ## Open-Source Assets
 ### W1
