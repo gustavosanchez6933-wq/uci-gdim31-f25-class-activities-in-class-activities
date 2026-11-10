@@ -43,6 +43,12 @@ Activity Discussion: #Team 10
 ### W7
 1. I was assigned to the General C# Coding category. Here's the link: https://docs.google.com/document/d/1Fn9TGFlxzcsuaW2vjqgng_0IyirIMh9iUS6c1-b-k7M/edit?usp=sharing
 
+2. The member variables that are needed for this class is float _speed to set the speed for the bat and Transform _playerTransform to keep track of the player's position.
+
+3. The methods that this class needs is Update(), StartChase(), StopChase().
+
+4. The update method should move the bat every single single frame, the StartChase() method would allow the bat to start chasing the player, and the StopChase() method would stop the bat from chasing the player.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
