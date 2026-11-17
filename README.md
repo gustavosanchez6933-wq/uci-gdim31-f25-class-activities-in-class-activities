@@ -51,6 +51,9 @@ Activity 2:
 
 3. The update method should move the bat every single single frame, the StartChase() method would allow the bat to start chasing the player, and the StopChase() method would stop the bat from chasing the player.
 
+### W8
+1. What was wrong with step 2 is that Vector3.forward only made the Musket only go forward and back in a global space. So, by replacing Vector3.forward with transform.forward - the Muskrat was now moving in a local space which allows it to move left and right by rotating the Muskrat.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
