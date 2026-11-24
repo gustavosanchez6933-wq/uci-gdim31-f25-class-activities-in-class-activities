@@ -54,6 +54,12 @@ Activity 2:
 ### W8
 1. What was wrong with step 2 is that Vector3.forward only made the Musket only go forward and back in a global space. So, by replacing Vector3.forward with transform.forward - the Muskrat was now moving in a local space which allows it to move left and right by rotating the Muskrat.
 
+### W9
+Acitvity 1:
+1. <img width="3024" height="4032" alt="unnamed" src="https://github.com/user-attachments/assets/0d2068fe-7b4f-4159-a418-e31588174fb5" />
+
+
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
