@@ -58,6 +58,11 @@ Activity 2:
 Acitvity 1:
 1. <img width="3024" height="4032" alt="unnamed" src="https://github.com/user-attachments/assets/0d2068fe-7b4f-4159-a418-e31588174fb5" />
 
+Acitivty 2:
+1. Created tilesets for platforms, ground, objects.
+2. Design a basic platform setup (will decorate more later).
+3. Allowed the player to control the cat to go left and right.
+
 
 
 ## Open-Source Assets
